@@ -2,6 +2,8 @@
 title: "Linwei Chen 陈霖炜"
 ---
 
+[Home](/) · [About](/about/) · [Posts](/posts/)
+
 ## Hi, I’m Linwei — I build reliable systems and useful tools
 
 I’m an engineer focused on pragmatic impact: shipping production-grade systems, improving developer workflows, and applying ML where it creates leverage.

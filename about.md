@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+[Home](/) · [About](/about/) · [Posts](/posts/)
+
 I’m Linwei Chen (陈霖炜), an engineer who likes dependable systems, fast feedback loops, and writing that saves other engineers time.
 
 - **Focus**: backend/platform, data/ML integration, infra reliability, and developer experience.
