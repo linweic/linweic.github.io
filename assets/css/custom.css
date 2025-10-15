@@ -1,0 +1,30 @@
+/* Site-wide type scale and spacing tweaks */
+:root {
+  --line: 1.65;
+}
+
+body {
+  line-height: var(--line);
+}
+
+h1, h2, h3 {
+  line-height: 1.25;
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+}
+
+p, ul, ol {
+  margin-top: 0.6rem;
+  margin-bottom: 0.9rem;
+}
+
+/* Nav spacing */
+#main-content p:first-child a,
+.page-content p:first-child a {
+  /* no style changes; reserved hook if needed */
+}
+
+/* Post list spacing */
+ul li {
+  margin-bottom: 0.25rem;
+}

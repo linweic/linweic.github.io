@@ -4,6 +4,7 @@ title: Posts
 permalink: /posts/
 ---
 
+{% include head-custom.html %}
 {% include nav.html %}
 
 <ul>

@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+{% include head-custom.html %}
 {% include nav.html %}
 
 I’m Linwei Chen (陈霖炜), an engineer who likes dependable systems, fast feedback loops, and writing that saves other engineers time.
