@@ -5,7 +5,7 @@
 title: "Linwei Chen 陈霖炜"
 description: "Engineering, systems, and ML notes — projects and writing"
 # Professional, clean theme
-theme: cayman
+theme: jekyll-theme-cayman
 
 # Author / social
 author: "Linwei Chen"
