@@ -4,7 +4,7 @@ title: Posts
 permalink: /posts/
 ---
 
-[Home](/) · [About](/about/) · [Posts](/posts/)
+{% include nav.html %}
 
 <ul>
 {% for post in site.posts %}

@@ -2,7 +2,7 @@
 title: "Linwei Chen 陈霖炜"
 ---
 
-[Home](/) · [About](/about/) · [Posts](/posts/)
+{% include nav.html %}
 
 ## Hi, I’m Linwei — I build reliable systems and useful tools
 
