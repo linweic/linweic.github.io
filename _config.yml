@@ -1,0 +1,26 @@
+# Site settings
+# GitHub Pages will build with this theme automatically
+# See: https://pages.github.com/themes/
+
+title: "Linwei Chen 陈霖炜"
+description: "Engineering, systems, and ML notes — projects and writing"
+# Professional, clean theme
+theme: cayman
+
+# Author / social
+author: "Linwei Chen"
+email: ""
+github_username: linweic
+linkedin_username: linweic
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+exclude:
+  - README.md
+  - node_modules
+  - package.json
+  - package-lock.json
