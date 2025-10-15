@@ -1,11 +1,11 @@
 ---
-layout: page
 title: Posts
 permalink: /posts/
 ---
 
-{% include head-custom.html %}
 {% include nav.html %}
+
+## Posts
 
 <ul>
 {% for post in site.posts %}

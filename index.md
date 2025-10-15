@@ -2,7 +2,6 @@
 title: "Linwei Chen 陈霖炜"
 ---
 
-{% include head-custom.html %}
 {% include nav.html %}
 
 ## Hi, I’m Linwei — I build reliable systems and useful tools

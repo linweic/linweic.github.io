@@ -19,9 +19,17 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-# Add defaults to inject custom head include on all pages via content
-# Cayman theme uses a simple layout; we can include head via a custom includes in pages content.
-# We'll reference it explicitly in pages where needed.
+# Use the same theme layout for all pages and posts
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 
 exclude:
   - README.md
